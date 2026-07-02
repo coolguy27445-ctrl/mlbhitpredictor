@@ -1,7 +1,0 @@
-streamlit
-MLB-StatsAPI
-pandas
-numpy
-pybaseball
-scikit-learn
-requests
